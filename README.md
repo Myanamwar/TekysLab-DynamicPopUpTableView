@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -27,3 +28,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+=======
+# DynamicPopUpTableView
+A Popup which contains tableview and headerView. Popup should be in the middle of screen and popup height changes dynamically along with the tableview. 
+>>>>>>> 7dca11cf179dce8896093499c767c8864a728267
